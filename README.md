@@ -4,3 +4,7 @@
 
 ### I'm Minji Seo, who is studying data science
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaaamj0711&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
