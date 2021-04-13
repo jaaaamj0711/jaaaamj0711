@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Min-ji%20Seo&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=&fontSize=70&animation=twinkling)
 
 
 ### Hi there 👋 I'm Minji Seo, who is studying data science
+
+<img align="right" alt="PNG" src = "https://user-images.githubusercontent.com/55734436/114543802-a7d85e80-9c94-11eb-8832-7cd1e923377b.png" width="400px" />
 
 ### :information_desk_person: About Me
 - :pray: I want to be a data analyst.
@@ -13,7 +15,7 @@
 - :dizzy: Social Network Analysis, Text Mining, Machine Learning, Deep Learning, Data visualization, Recommender system, etc.
 
 
-#### :email: Contact
+### :email: Contact
 - jaaaamj0711@gmail.com
 - [Instagram](https://www.instagram.com/mingzss/)   
 
