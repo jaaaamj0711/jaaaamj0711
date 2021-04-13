@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Thanks%20for%20visiting&fontSize=70&animation=twinkling)
 
 
-### Hi there 👋 I'm Minji Seo, who is studying data science
+## Hi there 👋 I'm Minji Seo, who is studying data science
 
 <img align="right" alt="PNG" src = "https://user-images.githubusercontent.com/55734436/114543802-a7d85e80-9c94-11eb-8832-7cd1e923377b.png" width="400px" />
 
