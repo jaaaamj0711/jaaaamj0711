@@ -14,7 +14,9 @@
 - :computer: Python, R, Mysql, Html
 - :dizzy: Social Network Analysis, Text Mining, Machine Learning, Deep Learning, Data visualization, Recommender system, etc.
 
-
+### :dancers: Activity
+- [Blog](https://jaaamj.tistory.com/)
+- [Tableau Public](https://public.tableau.com/profile/.67896072#!/)
 ### :email: Contact
 - jaaaamj0711@gmail.com
 - [Instagram](https://www.instagram.com/mingzss/)   
