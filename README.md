@@ -12,7 +12,7 @@
 
 ### :wrench: Tech
 - :computer: Python, R, Mysql, Html
-- :dizzy: Social Network Analysis, Text Mining, Machine Learning, Data visualization, Recommender system, etc.
+- :dizzy: Social Network Analysis, Text Mining, Machine Learning, Data visualization etc.
 
 ### :dancers: Activity
 - [Blog](https://jaaamj.tistory.com/)
