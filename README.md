@@ -3,11 +3,12 @@
 
 ## Hi there 👋 I'm Minji Seo, who is studying data science
 
-<img align="right" alt="PNG" src = "https://user-images.githubusercontent.com/55734436/114543802-a7d85e80-9c94-11eb-8832-7cd1e923377b.png" width="400px" />
+<img align="right" alt="PNG" src = "https://user-images.githubusercontent.com/55734436/137735236-6fd14268-98c2-4db9-9ab6-23fe278a2d12.PNG" width="400px" />
 
 ### :information_desk_person: About Me
 - :pray: I want to be a data analyst.
 - :smiley: I'm interested in visualization, analysis, etc.
+
 
 
 ### :wrench: Tech
