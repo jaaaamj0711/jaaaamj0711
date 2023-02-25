@@ -3,7 +3,6 @@
 
 ## Hi there 👋 I'm Minji Seo, who is studying data science
 
-<img align="right" alt="PNG" src = "https://user-images.githubusercontent.com/55734436/137737097-5d9c1d99-cd43-44ed-9646-ed7952562c4f.PNG" width="400px" />
 
 ### :information_desk_person: About Me
 - :pray: I want to be a data analyst.
